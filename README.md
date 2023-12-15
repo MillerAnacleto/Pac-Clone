@@ -93,10 +93,10 @@ sem link
 ## Imagens do jogo
 
 ### Menu
-![Menu](images/Menu.png)
+![Menu](images/Menu.jpg)
 
 ### Play
-![Play](images/Play.png)
+![Play](images/Play.jpg)
 
 ### GameOver
-![GameOver](images/GameOver.png)
+![GameOver](images/GameOver.jpg)

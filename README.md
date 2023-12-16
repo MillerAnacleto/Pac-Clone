@@ -88,7 +88,7 @@ Dessa forma, condições de corrida, antes presentes e que poderiam ocasionar gl
 
 ## Vídeo de apresentação
 
-sem link
+[Link do Vídeo](https://drive.google.com/file/d/1X9mMZbySDG_PfzsFRX27cvUN-EM-9Laz/view?usp=sharing)
 
 ## Imagens do jogo
 

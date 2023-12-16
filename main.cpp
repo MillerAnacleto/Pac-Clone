@@ -14,8 +14,7 @@ Starter *starter;
 int main() {
     // Crie uma janela
     while(!sprTexture.loadFromFile("./texture/PMSprites.png")){}
-    RenderWindow window(VideoMode(winW, winH), "PAC sem MAN");
-    // window.setActive(false);
+    RenderWindow window(VideoMode(winW, winH), "PAC CLONE");
     starter = new Starter(&window , &sprTexture);
     delete starter;
     return 0;
